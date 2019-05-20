@@ -1,3 +1,38 @@
 <resources>
     <string name="app_name">RevBetCalc</string>
+
+    <string name="bet_prompt">Choose bet value</string>
+    <string name="type_prompt">Choose type</string>
+
+    <string-array name="bet_array">
+        <item>10¢</item>
+        <item>50¢</item>
+        <item>$1</item>
+        <item>$2</item>
+        <item>$3</item>
+        <item>$4</item>
+        <item>$5</item>
+        <item>$10</item>
+        <item>$20</item>
+        <item>$50</item>
+        <item>$100</item>
+    </string-array>
+
+    <string-array name="type_array">
+        <item>Win</item>
+        <item>Place</item>
+        <item>Show</item>
+        <item>Across the Board</item>
+        <item>Quinella</item>
+        <item>Exacta</item>
+        <item>Trifecta</item>
+        <item>Superfecta</item>
+        <item>Super High 5</item>
+        <item>Daily Double</item>
+        <item>Pick 3</item>
+        <item>Pick 4</item>
+        <item>Pick 5</item>
+        <item>Pick 6</item>
+        <item>Place Pick All</item>
+    </string-array>
 </resources>
